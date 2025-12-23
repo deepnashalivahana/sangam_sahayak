@@ -1,0 +1,7 @@
+{
+  "name": "Sangam Sahayak",
+  "description": "A high-accessibility fintech application for Self-Help Groups (SHGs) featuring offline-first logic, reducing balance interest calculations, and a structured meeting workflow.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
